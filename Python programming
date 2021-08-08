@@ -1,0 +1,2 @@
+#include<condo.h>
+printf(12,-7,5,64,-14)
